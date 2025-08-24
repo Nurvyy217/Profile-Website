@@ -5,7 +5,7 @@ Website ini adalah portofolio pribadi Muhammad Hasbi Hardian, Mahasiswa Teknik I
 
 ## Teknologi yang Digunakan
 - **HTML5**  
-- **CSS3** (termasuk responsive design)
+- **CSS3** 
 - **[Formspree.io](https://formspree.io/)** (untuk pengiriman form kontak)
 - **[iconmonstr.com](https://iconmonstr.com/)** (sumber beberapa ikon SVG)
 - **Google Fonts** (Roboto)
