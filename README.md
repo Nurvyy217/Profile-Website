@@ -10,5 +10,5 @@ Website ini adalah portofolio pribadi Muhammad Hasbi Hardian, Mahasiswa Teknik I
 - **[iconmonstr.com](https://iconmonstr.com/)** (sumber beberapa ikon SVG)
 - **Google Fonts** (Roboto)
 
-## Link Deploy
+## Link Website
 [https://hasbiprofile.netlify.app/](https://hasbiprofile.netlify.app/)
