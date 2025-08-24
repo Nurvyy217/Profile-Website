@@ -1,0 +1,125 @@
+@media screen and (max-width: 1000px) {
+    p {
+        font-size: .9rem;
+        line-height: 1.8rem;
+    }
+    .grid-3 {
+        gap: 1rem;
+    }
+    .skills-right ul li {
+        font-size: .9rem;
+    }
+}
+
+@media screen and (max-width: 825px) {
+    /* Navbar */
+    .nav{
+        padding: 1rem 0;
+    }
+    .nav ul{
+        gap: 1.2rem;
+    }
+    .logo{
+        font-weight: 600;
+        font-size: 1.2rem;
+    }
+    .nav ul li a {
+        font-size: 1rem;
+    }
+    .btn {
+        font-size: 1rem;
+        padding: .6rem .8rem;
+        border: 1.5px solid var(--borderColor);
+    }
+    /* End of Navbar */
+
+
+    /* Variables */
+    :root {
+        --sectionPadding: 4rem 0;
+    }
+    /* End of Variables */
+
+
+    /* Titles */
+    .section-title {
+        font-size: 1.6rem;
+        margin: .6rem 2.5rem;
+    }
+    .pre-title {
+        font-size: .8rem;
+    }
+    /* End of Titles */
+
+    /* Hero Section */
+    #hero {
+        grid-template-columns: 1fr;
+        height: fit-content;
+    }
+    .hero-right {
+        order: -1;
+    }
+    .hero-right img {
+        width: 70%;
+    }
+    .hero-left {
+        text-align: center;
+        padding-bottom: 5rem;
+    }
+    .hero-left .pre-title {
+        margin: 0 auto;
+    }
+    .hero-name {
+        font-size: 2.3rem;
+        margin-bottom: .5rem;
+    }
+    /* End of Hero Section */
+
+
+    /* Skills Section */
+    .skills-grid {
+        gap: 1rem;
+    }
+    /* End of Skills Section */
+
+
+    /* Footer Section */
+    footer {
+        padding: 2rem 0;
+    }
+    /* End of Footer Section */
+}
+
+@media screen and (max-width: 640px) {
+    /* Navbar */
+    .nav{
+        padding: 1rem 0;
+    }
+    .nav ul{
+        gap: .8rem;
+    }
+    .logo{
+        font-weight: 600;
+        font-size: 1rem;
+    }
+    .nav ul li a {
+        font-size: .75rem;
+    }
+    .btn {
+        font-size: .75rem;
+        padding: .4rem .6rem;
+        border: 1.5px solid var(--borderColor);
+    }
+    /* End of Navbar */
+
+
+    /* Titles */
+    .section-title {
+        font-size: 1.3rem;
+    }
+    .pre-title {
+        font-size: .7rem;
+    }
+    /* End of Titles */
+}
+
